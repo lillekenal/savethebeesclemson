@@ -1,4 +1,4 @@
-Do you like plants? I know bees do! Help save the bees! 
+**Do you like plants?** I know bees do! Help save the bees! 
 
 Here is a picture of one of my bee bombs: <img src="beeBomb1.jpg" alt="drawing" width="300"/>
 
