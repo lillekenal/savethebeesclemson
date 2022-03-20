@@ -1,6 +1,7 @@
 Do you like plants? I know bees do! Help save the bees! 
 
-Here is a picture of one of my bee bombs: ![](beeBomb1.jpg?raw=true)
+Here is a picture of one of my bee bombs: <img src="beeBomb1.jpg" alt="drawing" width="300"/>
+
 Here are a number of my packaged bee bombs: <img src="beeBombPkgs1.jpg" alt="drawing" width="300"/>
 
 These "bee bombs" do not hurt bees, but help them make pollinate flowers and make honey.
